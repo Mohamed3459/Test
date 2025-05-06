@@ -21,7 +21,7 @@ public class Hospital {
     public void getAllPatients(){
         for(int i = 0; i< patientsList.size();i++){
             System.out.println(patientsList.get(i).toString());
-            System.out.println("");
+            System.out.println("I added this new thing to test and shit");
         }
     }
 }
